@@ -1,4 +1,4 @@
-# wp-cm-menu-shortcodes
+# Estel's WordPress Menu Shortcodes Plugin
 
 `@TODO`
 
